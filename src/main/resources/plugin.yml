@@ -1,0 +1,30 @@
+name: DauniaLand
+version: '${project.version}'
+main: it.gianluca.main.Main
+api-version: 1.18
+authors: [ Staff ]
+description: DauniaLand
+depend: [ProtocolLib]
+commands:
+  reloadconfig:
+  register:
+    aliases: reg
+  login:
+  testhub:
+  ciao:
+  hub:
+  modalita:
+  gamemode:
+  gmc:
+  gms:
+  gmsp:
+  gmadv:
+  fly:
+  gmessage:
+  skin:
+  home:
+  sethome:
+  tpa:
+  tpaccept:
+  manutenzione:
+  zonaprotetta:
